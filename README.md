@@ -20,6 +20,8 @@ copy out folder content into ios/App/App/public
 # open xCode 
 open xCode install
 
+# assets logo splash
+npx @capacitor/assets generate --iconBackgroundColor '#eeeeee' --iconBackgroundColorDark '#222222' --splashBackgroundColor '#eeeeee' --splashBackgroundColorDark '#111111'
 
 
 
